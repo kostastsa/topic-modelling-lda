@@ -1,5 +1,5 @@
 # topic modelling-LDA
-We implement the Latent Dirichlet Allocation model for topic modelling on a dataset of BBC articles. To train the model we use a Gibbs sampling procedure 
+We implement the Latent Dirichlet Allocation model for topic modelling introduced in [1] on a dataset of BBC articles. To train the model we use a Gibbs sampling procedure used in [2]. 
 
 
 
